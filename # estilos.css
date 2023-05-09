@@ -1,0 +1,19 @@
+/* elemento x etiqueta */
+        h1{
+            color: rgb(255, 0, 0);
+            font-size: 12px;
+        }
+        /* selectot por clase */
+        .titulo{
+            color: black;
+            font-size: 20px;
+
+        }
+           /*selector por ID */
+           #imagenPP{
+            width: 200px;
+        }
+/* selector universal */
+        #imagenPP{
+            width: 200px;
+        }
